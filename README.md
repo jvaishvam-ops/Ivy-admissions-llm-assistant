@@ -31,5 +31,7 @@ To resolve questions about:
 PRODUCT USEFULNESS
 <br>
 A student can get a correct, actionable answer to a common question in a single turn, without follow-up clarification, in the majority of cases.
+<br>
 Answers are calibrated: the model distinguishes between what is officially published, what is widely observed, and what is speculation.
+<br>
 The model never produces an essay a student could submit as their own.
