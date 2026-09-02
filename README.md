@@ -5,9 +5,9 @@ this repository is for Indian Students who wants to apply to Ivy Leagues and hav
 Three specific gaps make this hard:
 
 1.Context mismatch. Most admissions guidance assumes a US high school background — GPA on a 4.0 scale, AP courses, Common App recommenders from a counselling office. An Indian applicant is coming from CBSE, ICSE, a state board, or IB, with percentage marks, board exam results, and schools that often have no dedicated counsellor. Generic advice does not translate cleanly, and applicants are left guessing how their profile will actually be read.
-<br>
+<br><br>
 2. Unreliable information supply. The practical questions — how need-blind vs. need-aware admissions affects an international applicant, what financial aid is realistically available, whether a particular extracurricular reads as substantive, how the I-20 and F-1 process works — are answered largely through coaching consultants, forums, and YouTube. Quality varies enormously, incentives are frequently misaligned, and outdated policy gets repeated for years.
-   <br>
+   <br><br>
 3. General-purpose LLMs are confidently wrong here. Ask a base model about Indian-specific admissions questions and it will produce fluent, plausible answers containing invented deadlines, stale aid policies, and hallucinated statistics. In a domain where a wrong deadline costs an applicant an entire cycle, fluency without grounding is worse than no answer.
    <br>
    <br>
